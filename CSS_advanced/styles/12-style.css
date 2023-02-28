@@ -155,7 +155,7 @@ a {
 /* Define custom properties for section titles */
 :root {
   --section-title-margin: 0;
-  --section-title-color: var(--text-color);
+  --section-title-color: var(--color-black);
 }
 
 /* Style section titles */
