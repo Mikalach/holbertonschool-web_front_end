@@ -4,6 +4,14 @@
   box-sizing: border-box;
 }
 
+*::before {
+    box-sizing: border-box;
+}
+
+*::after {
+    box-sizing: border-box;
+}
+
 html{
     scroll-behavior: smooth;
 }
