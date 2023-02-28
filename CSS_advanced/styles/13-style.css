@@ -167,20 +167,20 @@ a {
   color: var(--section-title-color);
 }
 
-a[link] {
+a:link {
   color: var(--text-color);
   text-decoration: none;
 }
 
-a[link]:visited {
+a:visited {
   color: var(--text-color);
   font-style: italic;
 }
 
-a[link]:hover {
+a:hover {
   text-decoration: underline;
 }
 
-a[link]:active {
+a:active {
   background-color: var(--color-light-grey);
 }
